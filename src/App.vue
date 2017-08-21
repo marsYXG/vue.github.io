@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <div>林乃仁大傻逼</div>
     <router-view></router-view>
   </div>
 </template>
